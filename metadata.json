@@ -1,0 +1,6 @@
+{
+  "name": "Pavilion Live - Global Cricket Scorecard & Match Centre",
+  "description": "Real-time ball-by-ball cricket scorecards, live telemetry, dynamic wagon wheels, commentary, and match analytics for international Tests, ODIs, and T20 leagues worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
