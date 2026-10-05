@@ -41,6 +41,8 @@ jobs:
 
       - name: Build static production files
         run: npm run build
+        env:
+          VITE_BASE_PATH: /Cricket-Live-Scorecard/
 
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v5
